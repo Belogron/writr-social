@@ -5,6 +5,8 @@
  * Contains the closing of <div id="content"> and all content after
  *
  * @package Writr-Social
+ *
+ * taken from writr theme and adpated
  */
 $twitter  = get_theme_mod( 'twitter_textbox' );
 $facebook = get_theme_mod( 'facebook_textbox' );
