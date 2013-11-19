@@ -1,0 +1,15 @@
+/*
+Theme Name: Writr-Social
+Theme URI: blog.belogron.tucana.uberspace.de
+Author: Ole Wehrmeyer
+Author URI: blog.belogron.tucana.uberspace.de
+Description: A child theme for Writr that enable social support wihout Publicize
+Version: 0.1
+License: GNU General Public License 3
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Tags: black, blue, gray, green, purple, red, white, two-columns, left-sidebar, flexible-width, custom-background, custom-colors, custom-header, custom-menu, editor-style, featured-images, flexible-header, post-formats, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready, photoblogging, social
+Text Domain: writr-social
+Template: writr
+*/
+
+@import "../writr/style.css"
